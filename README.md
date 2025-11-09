@@ -1,6 +1,6 @@
 # 📊 Relatório Power BI
 
-Este repositório contém um relatório desenvolvido em **Power BI Desktop (.pbix)**.
+Este repositório contém um relatório desenvolvido em **Power BI Desktop (.pbix) para o projeto integrador IV da Univesp**.
 
 ## 🧩 Sobre o projeto
 
